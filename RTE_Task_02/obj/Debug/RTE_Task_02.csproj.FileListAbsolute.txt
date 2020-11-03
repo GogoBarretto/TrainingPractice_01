@@ -1,0 +1,7 @@
+D:\TrainingPractice_01\RTE_Task_02\bin\Debug\RTE_Task_02.exe.config
+D:\TrainingPractice_01\RTE_Task_02\bin\Debug\RTE_Task_02.exe
+D:\TrainingPractice_01\RTE_Task_02\bin\Debug\RTE_Task_02.pdb
+D:\TrainingPractice_01\RTE_Task_02\obj\Debug\RTE_Task_02.csprojAssemblyReference.cache
+D:\TrainingPractice_01\RTE_Task_02\obj\Debug\RTE_Task_02.csproj.CoreCompileInputs.cache
+D:\TrainingPractice_01\RTE_Task_02\obj\Debug\RTE_Task_02.exe
+D:\TrainingPractice_01\RTE_Task_02\obj\Debug\RTE_Task_02.pdb

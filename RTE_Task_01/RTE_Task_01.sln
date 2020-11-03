@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTE_Task_01", "RTE_Task_01.csproj", "{8E8AE8B3-2635-4F10-B83F-22F5C73C71DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8AE8B3-2635-4F10-B83F-22F5C73C71DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8AE8B3-2635-4F10-B83F-22F5C73C71DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8AE8B3-2635-4F10-B83F-22F5C73C71DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8AE8B3-2635-4F10-B83F-22F5C73C71DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5028D8-6244-462D-8597-02C662B598AB}
+	EndGlobalSection
+EndGlobal

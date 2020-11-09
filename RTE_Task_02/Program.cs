@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace RTE_Task_02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter any words you want (Word 'exit' ends the program): ");
+            Console.WriteLine("Вы можете вводить любые слова в консоль, пока не введено слово 'exit'. Вводите: ");
             string exit = "";
             do
             {

@@ -1,0 +1,11 @@
+D:\TrainingPractice_01\RTE_Project\bin\Debug\RTE_Project.exe.config
+D:\TrainingPractice_01\RTE_Project\bin\Debug\RTE_Project.exe
+D:\TrainingPractice_01\RTE_Project\bin\Debug\RTE_Project.pdb
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.csprojAssemblyReference.cache
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.Game.resources
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.Rules.resources
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.Properties.Resources.resources
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.csproj.GenerateResource.cache
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.csproj.CoreCompileInputs.cache
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.exe
+D:\TrainingPractice_01\RTE_Project\obj\Debug\RTE_Project.pdb
